@@ -3,7 +3,7 @@
 ## Description
 Interest calculator running in the command line. It prompts the user to choose between different products associated to a different interest rate. The user can then choose the loan amount and the total payment period. Finally, the calculator returns the monthly interest.
 ```bash
-node cli.js
+npm start
 ```
 
 ## Approach

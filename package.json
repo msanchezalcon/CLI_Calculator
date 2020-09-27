@@ -2,9 +2,10 @@
   "name": "wanda_space",
   "version": "1.0.0",
   "description": "Simple interest calculator",
-  "main": "cli.js",
+  "main": "interest.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node cli.js"
   },
   "repository": {
     "type": "git",
